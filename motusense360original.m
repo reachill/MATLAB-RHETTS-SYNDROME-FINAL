@@ -1,5 +1,6 @@
 %preloaded with Nicoles data
 
+git remote add private-remote git@github.com:USER_NAME/PRIVATE_REPO.git
 
 close all; clear all; clc
 fid = fopen('/Users/ntunick19/Desktop/nomo_wringing_tapping_clapping_4_14.txt'); 
