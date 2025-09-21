@@ -1,3 +1,4 @@
+git remote add private-remote git@github.com:USER_NAME/PRIVATE_REPO.git
 
 function varargout = MotuSense360GUI(varargin)
 % MOTUSENSE360GUI MATLAB code for MotuSense360GUI.fig
